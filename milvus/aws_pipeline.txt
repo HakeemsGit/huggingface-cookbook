@@ -1,0 +1,11 @@
+ boto3                                                                                                                       
+ langchain-community                                                                                                         
+ langchain                                                                                                                   
+ langchain-openai                                                                                                            
+ python-dotenv                                                                                                               
+ unstructured                                                                                                                
+ unstructured[pdf]                                                                                                           
+ pymilvus                                                                                                                    
+ transformers                                                                                                                
+ torch                                                                                                                       
+ pillow   
